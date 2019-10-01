@@ -1,3 +1,4 @@
+# https://www.codeproject.com/Articles/1160586/Entity-Framework-Core-2-for-the-Enterprise
 # Entity Framework Core 2 for the Enterprise
 
 This is a guide about how to implement **Entity Framework Core 2** for the enterprise.
